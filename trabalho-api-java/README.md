@@ -2,7 +2,7 @@
 
 > Api desenvolvida para uso dos estudantes.
 
-**API** É desenvolvida em java, focada em monitoramento pela localização e predição de qualidade da internet.
+**API** É desenvolvida em java, focada em monitoramento pela localização e predição de qualidade da internet proposta.
 
 ---
 
